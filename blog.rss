@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Blog d'ESPORTS</title>
+  <link>https://blogesports.github.io.git</link>
+  <description></description>
+  <item>
+    <title>HOQUEI</title>
+    <link>../html/pag1.html</link>
+   
+  </item>
+  <item>
+    <title>FUTBOL</title>
+    <link>../html/pag2.html</link>
+   
+  </item>
+</channel>
+<title>BASQUET</title>
+    <link>../html/pag3.html</link>
+   
+  </item>
+</channel>
+
+</rss>
