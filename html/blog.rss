@@ -15,10 +15,19 @@
     <link>/html/pag2.html</link>
    
   </item>
-</channel>
+  <item>
 <title>BASQUET</title>
     <link>/html/pag3.html</link>
-   
+  </item>
+  
+  <item>
+<title>GOLF</title>
+    <link>/html/pag3.html</link>
+  </item>
+  
+  <item>
+<title>BOXEO</title>
+    <link>/html/pag3.html</link>
   </item>
 </channel>
 
